@@ -4,7 +4,7 @@
 
 
  
-# Alcides Neto Pelinganga ![image](https://user-images.githubusercontent.com/16880693/181482072-a05c4747-c2e0-4766-b9df-69ae16e99de9.png)
+# About me!
 
 
 <img src="https://komarev.com/ghpvc/?username=lweni&style=flat-square&color=blue" alt=""/>
