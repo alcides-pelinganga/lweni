@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="AngularJs" alt="AngularJs" width="80" height="80"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="80" height="80"/>&nbsp;
   <img src="[h](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg)" title="bootstrap" alt="bootstrap" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="bootstrap" alt="bootstrap" width="80" height="80"/>&nbsp;
