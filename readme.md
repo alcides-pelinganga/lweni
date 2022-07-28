@@ -13,7 +13,7 @@
 
 - :mailbox:How to get in touch:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="your-linkedin-URL](https://www.linkedin.com/in/alcides-neto-pelinganga-7aa99a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
