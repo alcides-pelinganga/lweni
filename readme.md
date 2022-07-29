@@ -81,7 +81,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
   
-  ### :hammer_and_wrench:DBMS :
+  ### :Laptop:DBMS :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="AngularJs" alt="AngularJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
